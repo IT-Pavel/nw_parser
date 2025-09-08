@@ -67,7 +67,7 @@ def main():
             print(f"Saved {count} of {totalCount}")
             count=count+1
             #sleep(0.1)
-        print(f"Downloading {page_name} complete")
+        print(f"Download {page_name} complete")
         sleep(1)
     print("Parsing complete")
         
